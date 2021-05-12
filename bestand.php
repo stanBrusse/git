@@ -1,3 +1,3 @@
 <?php
-echo "dit werkt";
+echo "dit werkt goeed";
 ?>
