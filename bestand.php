@@ -7,5 +7,5 @@ while ($row = mysqli_fetch_array($result)) {
 echo $row["id"] . " " . $row["title"] . "<br>";
 }
 
-
+echo "dit komt uit de database.
 ?>
