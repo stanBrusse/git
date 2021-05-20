@@ -6,5 +6,5 @@ while ($row = mysqli_fetch_array($result)) {
 echo $row["id"];
 }
 
-echo "dit werkt echt goedd";
+echo "dit  echt goedd";
 ?>
